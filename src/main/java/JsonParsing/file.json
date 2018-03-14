@@ -1,0 +1,6 @@
+{"id" :35,
+"name":"ankit",
+"company":"ttn",
+  "address":{"city":"new delhi","state":"Delhi"},
+  "hobbies":["cricket","music","football"]
+}
